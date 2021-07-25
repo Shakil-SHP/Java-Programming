@@ -1,1 +1,1 @@
-Basic java programming
+Learning the core concepts of java
